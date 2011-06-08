@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 118 150">
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:date>2011-06-07 02:56Z</dc:date>
+<!-- Produced by OmniGraffle Professional 5.2.3 --> </metadata>
+ <defs>
+  <marker id="FilledArrow_Marker" markerUnits="strokeWidth" color="black" orient="auto" markerWidth="10" overflow="visible" viewBox="-1 -4 10 8" markerHeight="8">
+   <path stroke="currentColor" d="m8 0l-8-3v6z" fill="currentColor"/>
+  </marker>
+ </defs>
+ <g fill="none">
+  <title>Overview 2</title>
+  <g>
+   <title>Layer 1</title>
+   <line stroke-linejoin="round" y2="79.542" marker-end="url(#FilledArrow_Marker)" x2="56" stroke="#000" stroke-linecap="round" y1="51" x1="56"/>
+   <path d="m20.516 119.01c-15.516-3.01-9.329-28.33 15.422-24.01 2.296-8.422 31.078-7.055 30.89 0 18.047-9.023 41.112 8.97 25.64 17.99 18.562 4.38-0.234 27.95-15.468 24.01-1.219 6.56-28.453 8.86-30.844 0-15.421 9.46-47.577-5.09-25.64-17.99z" fill="#e3e3e3"/>
+   <path stroke-linejoin="round" stroke="#000" stroke-linecap="round" d="m20.516 119.01c-15.516-3.01-9.329-28.33 15.422-24.01 2.296-8.422 31.078-7.055 30.89 0 18.047-9.023 41.112 8.97 25.64 17.99 18.562 4.38-0.234 27.95-15.468 24.01-1.219 6.56-28.453 8.86-30.844 0-15.421 9.46-47.577-5.09-25.64-17.99z" stroke-width="3"/>
+   <text transform="translate(27.4 106.5)" fill="black">
+    <tspan font-size="16" font-weight="500" textLength="48.164062" y="15" x="4.5179672" font-family="Bitstream Vera Sans Mono">Jetty</tspan>
+   </text>
+   <rect y="16" x="16" height="35" fill="#efefbf" width="80"/>
+   <path stroke-linejoin="round" stroke="#9d8c25" stroke-linecap="round" d="m16 16h80m0 35h-80" stroke-width="3"/>
+   <text transform="translate(21 24)" fill="black">
+    <tspan font-size="16" font-weight="500" textLength="48.164062" y="15" x="10.917969" font-family="Bitstream Vera Sans Mono">query</tspan>
+   </text>
+  </g>
+ </g>
+</svg>

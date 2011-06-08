@@ -1,0 +1,7 @@
+{
+	"name": "Introduction to Solr and Lucene",
+	"description": "An introduction to the open-source search engine Solr, and its underlying engine Lucene.",
+	"sections": [
+		{ "section": "overview" }
+	]
+}
